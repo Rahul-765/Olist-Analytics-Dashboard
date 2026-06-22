@@ -133,3 +133,38 @@ This dashboard consolidates 8 relational data sources into a single executive in
 - Seller revenue is heavily concentrated in the top tier a dependency risk if key sellers churn
 - States with longest shipping times also show lowest review scores, confirming geography as the #1 satisfaction driver
 
+## Dashboard Architecture
+
+### Page 1 — Sales & Operations
+*Commercial performance and revenue drivers*
+
+| KPI | Description |
+|---|---|
+| Total Orders | Volume baseline |
+| Total Revenue | GMV across the period |
+| Average Order Value | Basket size health |
+| Freight Cost | Fulfilment cost as a component of revenue |
+| Payment Method Mix | Consumer payment behaviour |
+
+### Page 2 — Delivery & Reviews
+*Fulfilment efficiency and customer satisfaction*
+
+| KPI | Description |
+|---|---|
+| On-Time Delivery % | SLA performance |
+| Late Deliveries | Volume and geographic distribution |
+| Avg. Processing Time | Warehouse-to-dispatch efficiency |
+| Avg. Shipping Time | Dispatch-to-delivery by region |
+| Average Review Score | Proxy NPS by category and seller |
+
+### Page 3 — Customers & Sellers
+*Marketplace growth and ecosystem health*
+
+| KPI | Description |
+|---|---|
+| Returning Customers | Retention signal |
+| Customer Retention Rate | Loyalty baseline |
+| Active Sellers | Supply-side health |
+| Seller Revenue Distribution | Concentration risk monitor |
+| Freight Cost vs. Sales by State | Regional margin analysis |
+
