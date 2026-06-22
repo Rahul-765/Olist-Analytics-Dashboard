@@ -115,3 +115,4 @@ Olist is a Brazilian company that connects small businesses to major online mark
 
 This dashboard consolidates 8 relational data sources into a single executive intelligence layer across three domains: **commercial performance**, **operational efficiency** and **marketplace health**. 
 
+**[→ Open Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmI1OTA0MTYtY2M2OS00OTZkLWIwZGUtZGFlMTVkZDBiZmYyIiwidCI6IjQ5NWVkMzcwLWJiYjYtNGY2OC04ZWUwLTkxYzM3NTk5ODZmMiJ9)**
