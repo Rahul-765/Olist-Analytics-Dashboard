@@ -104,13 +104,14 @@ This dashboard helps business leaders to:
 Olist is a Brazilian company that connects small businesses to major online marketplaces. The dataset contains real world e-commerce transactions from 2016–2018 and was made publicly available.
 
 **The dataset includes information about:**
-•	Customers – customer IDs, locations (city/state) 
-•	Orders – order dates, status, delivery dates 
-•	Products – product categories, dimensions, weight 
-•	Sellers – seller locations and IDs 
-•	Payments – payment type, installments, payment value 
-•	Reviews – customer review scores and comments 
-•	Order Items – products purchased in each order 
-•	Geolocation – ZIP-code-based latitude and longitude da
+-	Customers – customer IDs, locations (city/state) 
+-	Orders – order dates, status, delivery dates 
+-	Products – product categories, dimensions, weight 
+-	Sellers – seller locations and IDs 
+-	Payments – payment type, installments, payment value 
+-	Reviews – customer review scores and comments 
+-	Order Items – products purchased in each order 
+-	Geolocation – ZIP-code-based latitude and longitude da
+
 This dashboard consolidates 8 relational data sources into a single executive intelligence layer across three domains: **commercial performance**, **operational efficiency** and **marketplace health**. 
 
